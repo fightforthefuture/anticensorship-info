@@ -38,14 +38,14 @@ how to get around the Great Firewall. If one day the Chinese government blocks
 one of our circumvention techniques, we will need to update this info to stay
 current with the latest way of getting through to the full Internet.
 
-### Editing the information
-
 **Basic steps:**
 
 * Fork this project
 * Make the change you need
 * Submit a pull request
 * We'll pull your changes in and push it out to the network!
+
+### Editing the HTML
 
 The anti-censorship information for each country is stored in the `info.html`
 file in that country's directory. There are two main segments to the html file:
