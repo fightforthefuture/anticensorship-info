@@ -31,7 +31,7 @@ body { height: 100%; }
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;}
 #_ac ._ac_header > span:first-child { display: block;
-    padding: 0px; color: white; font-size: 25px; line-height: 32px;
+    padding: 0px; color: white; font-size: 24px; line-height: 32px;
     text-align: center; font-weight: 300; font-style: none;
     text-decoration: none; margin: 0px 0px 10px 0px; }
 #_ac ._ac_header > span:last-child { display: block; width: 80%;
@@ -42,7 +42,7 @@ body { height: 100%; }
 #_ac ._ac_info { padding: 30px 30px 30px 100px;
     border-bottom: 1px dotted #a9a9a9; }
 #_ac ._ac_info p { color: #545d60; font-size: 20px; font-weight: bold;
-    line-height: 25px; }
+    line-height: 25px; margin: 0px; }
 #_ac ._ac_info p.ac_small { font-weight: normal; font-size: 16px;
     line-height: 21px; }
 #_ac #_ac_yes { display: table; float: right; background: #2fb57b;
